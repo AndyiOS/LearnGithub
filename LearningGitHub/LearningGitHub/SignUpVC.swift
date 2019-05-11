@@ -15,7 +15,8 @@ class SignUpVC: UIViewController {
 
         // Do any additional setup after loading the view.
         print("Signup")
-        print("Signup2")    
+        print("Signup2")
+        print ("SignUp3")
         
     }
     
