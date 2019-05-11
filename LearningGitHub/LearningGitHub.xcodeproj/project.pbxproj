@@ -13,6 +13,7 @@
 		5A9C3A6722869858005FF840 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5A9C3A6622869858005FF840 /* Assets.xcassets */; };
 		5A9C3A6A22869858005FF840 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5A9C3A6822869858005FF840 /* LaunchScreen.storyboard */; };
 		5A9C3A7522869B28005FF840 /* SignUpVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A9C3A7422869B28005FF840 /* SignUpVC.swift */; };
+		5A9C3A772286A495005FF840 /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A9C3A762286A495005FF840 /* LoginViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		5A9C3A6922869858005FF840 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5A9C3A6B22869858005FF840 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5A9C3A7422869B28005FF840 /* SignUpVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpVC.swift; sourceTree = "<group>"; };
+		5A9C3A762286A495005FF840 /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				5A9C3A5F22869855005FF840 /* AppDelegate.swift */,
 				5A9C3A6122869855005FF840 /* ViewController.swift */,
 				5A9C3A7422869B28005FF840 /* SignUpVC.swift */,
+				5A9C3A762286A495005FF840 /* LoginViewController.swift */,
 				5A9C3A6322869855005FF840 /* Main.storyboard */,
 				5A9C3A6622869858005FF840 /* Assets.xcassets */,
 				5A9C3A6822869858005FF840 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5A9C3A772286A495005FF840 /* LoginViewController.swift in Sources */,
 				5A9C3A6222869855005FF840 /* ViewController.swift in Sources */,
 				5A9C3A7522869B28005FF840 /* SignUpVC.swift in Sources */,
 				5A9C3A6022869855005FF840 /* AppDelegate.swift in Sources */,

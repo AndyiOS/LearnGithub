@@ -1,5 +1,5 @@
 //
-//  SignUpVC.swift
+//  LoginViewController.swift
 //  LearningGitHub
 //
 //  Created by Anirban Chatterjee on 11/05/19.
@@ -8,15 +8,12 @@
 
 import UIKit
 
-class SignUpVC: UIViewController {
+class LoginViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
-        print("Signup")
-        print("Signup2")    
-        
     }
     
 
